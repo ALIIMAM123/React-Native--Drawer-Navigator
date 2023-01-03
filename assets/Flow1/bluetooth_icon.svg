@@ -1,0 +1,7 @@
+<svg id="bluetooth_icon" xmlns="http://www.w3.org/2000/svg" width="9.62" height="15.378" viewBox="0 0 9.62 15.378">
+  <g id="Group_22" data-name="Group 22">
+    <path id="Path_21" data-name="Path 21" d="M204.52,251.333l1.6-1.483-1.6-1.517Z" transform="translate(-199.572 -239.885)" fill="#1c1c1c"/>
+    <path id="Path_22" data-name="Path 22" d="M204.52,242.421v3.017l1.6-1.552Z" transform="translate(-199.572 -238.456)" fill="#1c1c1c"/>
+    <path id="Path_23" data-name="Path 23" d="M202.8,237.191a4.811,4.811,0,0,0-4.81,4.81v5.758a4.81,4.81,0,0,0,9.62,0V242A4.812,4.812,0,0,0,202.8,237.191Zm2.638,9.965-3.12,2.931v-4.466l-1.724,1.535-.431-.431,2.018-1.845-2.018-2.207.448-.431,1.707,1.9v-4.466l3.12,2.931-2.362,2.276Z" transform="translate(-197.994 -237.191)" fill="#1c1c1c"/>
+  </g>
+</svg>

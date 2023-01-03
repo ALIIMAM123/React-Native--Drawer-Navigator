@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.639" height="103.639" viewBox="0 0 103.639 103.639">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.692" y1="-0.31" x2="1.578" y2="1.072" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1e5bf7"/>
+      <stop offset="0.1" stop-color="#1e74f7"/>
+      <stop offset="0.2" stop-color="#1e8df7"/>
+      <stop offset="0.3" stop-color="#1ea6f7"/>
+      <stop offset="0.4" stop-color="#1ebff7"/>
+      <stop offset="0.5" stop-color="#1ed8f7"/>
+      <stop offset="0.6" stop-color="#1ad8e2"/>
+      <stop offset="0.7" stop-color="#16d8cd"/>
+      <stop offset="0.8" stop-color="#12d8b8"/>
+      <stop offset="0.9" stop-color="#0ed8a3"/>
+      <stop offset="1" stop-color="#0ad88e"/>
+    </linearGradient>
+    <filter id="Rectangle_88" x="0" y="0" width="99.639" height="99.639" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_121" x="4" y="4" width="99.639" height="99.639" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.443"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_370" x="21.169" y="24.545" width="61.633" height="56.994" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.635"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="message_sent" data-name="message sent" transform="translate(17 17)" opacity="0.8">
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Rectangle_88)">
+      <rect id="Rectangle_88-2" data-name="Rectangle 88" width="69.639" height="69.639" rx="34.82" transform="translate(17 17)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Rectangle_121)">
+      <rect id="Rectangle_121-2" data-name="Rectangle 121" width="69.639" height="69.639" rx="34.82" transform="translate(17 17)" fill="url(#linear-gradient)"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Path_370)">
+      <path id="Path_370-2" data-name="Path 370" d="M8405.635-589.39l10.469,9.352,16.834-20.771" transform="translate(-8367.47 642.24)" fill="none" stroke="#fff" stroke-width="6"/>
+    </g>
+  </g>
+</svg>

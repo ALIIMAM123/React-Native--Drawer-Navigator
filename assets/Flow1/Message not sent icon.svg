@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="103.639" height="103.639" viewBox="0 0 103.639 103.639">
+  <defs>
+    <filter id="Rectangle_88" x="0" y="0" width="99.639" height="99.639" filterUnits="userSpaceOnUse">
+      <feOffset dx="-2" dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_121" x="4" y="4" width="99.639" height="99.639" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-2"/>
+      <feFlood flood-opacity="0.443"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Union_7" x="25.117" y="25.117" width="53.406" height="53.405" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-opacity="0.635"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Message_not_sent_icon" data-name="Message not sent icon" transform="translate(17 17)" opacity="0.8">
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Rectangle_88)">
+      <rect id="Rectangle_88-2" data-name="Rectangle 88" width="69.639" height="69.639" rx="34.82" transform="translate(17 17)" fill="#d90909"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Rectangle_121)">
+      <rect id="Rectangle_121-2" data-name="Rectangle 121" width="69.639" height="69.639" rx="34.82" transform="translate(17 17)" fill="#d90909"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -17, -17)" filter="url(#Union_7)">
+      <path id="Union_7-2" data-name="Union 7" d="M2497.153-5388.517l-9.619,9.281,9.619-9.281-9.282-9.619,9.282,9.619,9.621-9.283-9.621,9.283,9.283,9.62Z" transform="translate(-2445.33 5440.34)" fill="none" stroke="#fff" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
