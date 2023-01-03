@@ -10,6 +10,7 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { Ionicons } from "@expo/vector-icons";
 
 const BottomTab = createBottomTabNavigator();
+//check
 
 export default function App() {
 	return (
